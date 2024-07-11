@@ -1,0 +1,9 @@
+version: 2
+authtoken: 2fsIo4vyPdbPxSKQvwHzSrHH9Os_LPp8k8zGpdYovtfXhMxJ
+tunnels:
+  first:
+    proto: http
+    addr: 5500
+  second:
+    proto: http
+    addr: 8000
